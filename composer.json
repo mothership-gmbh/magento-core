@@ -4,7 +4,9 @@
     "type": "magento-core",
     "description": "Magento Core",
     "homepage": "http://www.magentocommerce.com",
-    "require": {},
+    "require": {
+        "composer/installers": "~1.0"
+    },
     "extra": {
         "map": [
             [
